@@ -1,0 +1,60 @@
+/*mobile*/
+@media(min-width:320px){
+   
+    .banner-row{
+        display:flex;
+    flex-wrap: wrap; }
+    .banner-col{
+        width: 100%;
+       }
+       .banner-col img{
+        height: 150px;
+        width: 150px;
+       }
+    
+            
+               
+                
+               
+                     
+                    
+}
+/*ipad*/
+@media(min-width:660px){
+
+    .head-bar{
+        display: block;
+            }
+            .banner-row{
+                display:flex;
+            flex-wrap: wrap; }
+            .banner-col{
+                width: 50%;
+               }
+    
+            
+               
+                         
+                     
+}
+/*laptop*/
+@media(min-width:1000px){
+    
+    
+            .banner-row{
+                display:flex;
+             }
+             .banner-col{
+                width: 50%;
+               }
+    
+.banner-col img{
+    height: 350px;
+    width: 550px;
+   }
+   
+
+
+}
+
+
